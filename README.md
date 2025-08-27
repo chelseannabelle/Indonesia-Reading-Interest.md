@@ -1,5 +1,6 @@
 ## Cara Kerja Metode IQR untuk Menghilangkan Outlier
-**IQR (Interquartile Range)** adalah selisih antara kuartil ke-3 (Q3) dan kuartil ke-1 (Q1) dari data. **Langkah utama:**
+**IQR (Interquartile Range)** adalah selisih antara kuartil ke-3 (Q3) dan kuartil ke-1 (Q1) dari data.
+**Langkah utama:**
 - Hitung Q1 (nilai pada persentil ke-25).
 - Hitung Q3 (nilai pada persentil ke-75).
 - Hitung IQR = Q3 - Q1.
